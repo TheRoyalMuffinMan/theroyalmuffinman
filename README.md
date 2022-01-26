@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andy</h1>
 <h3 align="center">I’m currently an undergraduate student at the University of Minnesota – Twin Cities. I’m trying to increase my knowledge in fields I’m unfamiliar with. I have a vested interested in competitive programming and I’m looking to learn more about web development.</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning about **Web Development**
 
 - 💬 Ask me about **Competitive Programming**
 
