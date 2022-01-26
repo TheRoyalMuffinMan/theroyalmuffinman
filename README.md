@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Competitive Programming**
 
-- ⚡ Fun fact **I'm a avid gamer and quite into PC building**
+- ⚡ Fun fact, **I'm a avid gamer and quite into PC building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
