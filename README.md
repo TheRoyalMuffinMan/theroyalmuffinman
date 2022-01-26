@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **web development**
 
-- 🤝 I’m looking for help with **open source projects**
+- 🤝 I’m looking to be more involved with **open source projects**
 
 - 💬 Ask me about **competitive Programming**
 
