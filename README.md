@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to be more involved with **open source projects**
 
-- 💬 Ask me about **competitive Programming**
+- 💬 Ask me about **competitive programming**
 
 - ⚡ Fun fact, **I'm a avid gamer and quite into PC building**
 
