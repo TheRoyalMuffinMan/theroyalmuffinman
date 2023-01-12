@@ -20,6 +20,6 @@
 <a href="https://www.leetcode.com/thegreatmuffinman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thegreatmuffinman" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theroyalmuffinman&show_icons=true&theme=radical&locale=en" alt="theroyalmuffinman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRoyalMuffinMan&show_icons=true&theme=radical&locale=en" alt="theroyalmuffinman" /></p>
 
 
